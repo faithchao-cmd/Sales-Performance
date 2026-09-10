@@ -14,14 +14,11 @@ actually use — not a static report.
 
 ## Project Structure
 ```
-Sales-Dashboard/
-├── data/
-│   └── Sample_Sales_Dataset.xlsx     # source data (480 records)
-├── dashboard/
-│   └── Sales_Dashboard.pbix           # interactive Power BI dashboard
-├── docs/
-│   └── Dashboard_Reading_Guide.docx   # one-page guide for stakeholders
-└── README.md
+ files
+ Sample_Sales_Dataset.xlsx     # source data (480 records)
+ Sales_Dashboard.pbix           # interactive Power BI dashboard
+ Dashboard_Reading_Guide.docx   # one-page guide for stakeholders
+ README.md
 ```
 
 ## Data Overview
