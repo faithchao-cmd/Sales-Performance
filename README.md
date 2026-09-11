@@ -18,7 +18,8 @@ actually use — not a static report.
  Sample_Sales_Dataset.xlsx     # source data (480 records)
  Sales_Dashboard.pbix           # interactive Power BI dashboard
  Dashboard_Reading_Guide.docx   # one-page guide for stakeholders
- README.md
+ Sales performance story        # Presentation for stakeholders
+README.md
 ```
 
 ## Data Overview
